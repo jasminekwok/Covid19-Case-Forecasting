@@ -14,7 +14,7 @@ For the complex model, we decided to build a neural network. Cross-validation wa
 ![image](https://user-images.githubusercontent.com/28970539/145730787-66af16ce-6e4f-42c9-95d2-e20cdcf9548f.png)
 
 
-Although the complex model was expected to produce higher accuracy than the interpretive model, linear regression ultimately performed better. Thus, the interpretive model would perform better in a real-world scenario. Despite the ability to build models to forecast the future of the pandemic given past data, the model performances indicate underestimation of COVID cases. Features including COVID cases and deaths, hospital admissions, as well as doctor doctor visits were among the most relevant for forecasting cases. To avoid undercounting, we can increase testing sites and medical resources for low-income areas.
+Although the complex model was expected to produce higher accuracy than the interpretive model, linear regression ultimately performed better. Thus, the interpretive model would perform better in a real-world scenario. Despite the ability to build models to forecast the future of the pandemic given past data, the model performances indicate underestimation of COVID cases. Features including COVID cases and deaths, hospital admissions, as well as doctor visits were among the most relevant for forecasting cases. To avoid undercounting, we can increase testing sites and medical resources for low-income areas.
 
 Please see our Research_Poster.pdf for more details on methodologies and results.
 
